@@ -1,4 +1,4 @@
-## GitBook 中文解說 - 2.4
+## 公狼IT文档手册
 
 This file file serves as your book's preface, a great place to describe your book's content and ideas.
 
