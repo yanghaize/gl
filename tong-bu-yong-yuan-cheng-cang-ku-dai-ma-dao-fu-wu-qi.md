@@ -35,9 +35,7 @@
 
 ln -s /root/node-v6.10.1/bin/node /usr/local/bin/node
 
- ln -s /root/node-v6.10.1/bin/npm /usr/local/bin/npm
-
-
+ln -s /root/node-v6.10.1/bin/npm /usr/local/bin/npm
 
 配置完成后即可在任何目录下使用node。  
 ![](http://img.blog.csdn.net/20170329194133691?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjE3OTQ2MDM=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast "这里写图片描述")
@@ -93,7 +91,6 @@ book/
  directories, 
 2
  files
-
 ```
 
 README.md 和 SUMMARY.md 是两个必须文件，README.md 是对书籍的简单介绍：
@@ -105,7 +102,6 @@ $ cat book/README.md
 
 
 This is a book powered by [GitBook](https://github.com/GitbookIO/gitbook).
-
 ```
 
 SUMMARY.md 是书籍的目录结构。内容如下：
@@ -128,7 +124,6 @@ $ cat book/SUMMARY.md
 2
 .md)
 * [Chapter2](chapter2/README.md)
-
 ```
 
 创建了这两个文件后，使用 `gitbook init`，它会为我们创建 SUMMARY.md 中的目录结构。
@@ -158,7 +153,6 @@ $ tree
  directories, 
 6
  files
-
 ```
 
 注意：在我的实验中，`gitbook init` 只支持**两级**目录！
@@ -190,7 +184,7 @@ Serving book on http://localhost:
 
 现在，gitbook 为我们创建了书籍目录结构后，就可以向其中添加真正的内容了，文件的编写使用 markdown 语法，在文件修改过程中，每一次保存文件，`gitbook serve` 都会自动重新编译，所以可以持续通过浏览器来查看最新的书籍效果！
 
-  `gitbook `build   生成图书
+`gitbook`build   生成图书
 
        `gitbook serve ` 启动服务编译书籍
 
@@ -227,33 +221,23 @@ $ git config --list
 git clone https://github.com/yanghaize/newstore.git
 ```
 
-2.更新远程最新的代码到服务器，我们可以使用如下命令从origin远程仓库获取最新版本的代码  
+2.更新远程最新的代码到服务器，我们可以使用如下命令从origin远程仓库获取最新版本的代码
 
 git fetch origin master:temp
 
 上面代码的意思是：从远程的origin仓库的master分支下载到本地master并新建一个temp分支
 
-3. 查看temp分支与本地原有分支的不同  
+1. 查看temp分支与本地原有分支的不同  
 
-
-
-git diff temp      
-
-
+git diff temp
 
 4.将temp分支和本地的master分支合并 （注：一定要记得合并）
 
+git merge temp
 
-
- git merge temp  
-
-
-
-现在，B的本地代码已经和远程仓库处于同一个版本了，于是B可以开心coding了。  
+现在，B的本地代码已经和远程仓库处于同一个版本了，于是B可以开心coding了。
 
 最后再提一下，上面的步骤中我们创建了temp分支，如果想要删除temp分支，也是可以的，
 
 命令如下：  git branch -d temp
-
-
 
