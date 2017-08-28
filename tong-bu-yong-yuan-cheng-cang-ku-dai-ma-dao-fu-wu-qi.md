@@ -188,8 +188,6 @@ Serving book on http://localhost:
 
        `gitbook serve ` 启动服务编译书籍
 
-
-
 > ### 4.安装git {#2配置nodejs}
 
 ```
