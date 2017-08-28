@@ -1,10 +1,6 @@
 ### GitBook的使用
 
-
-
 > ### 1.创建gitbook的账号
-
-
 
 ![](/assets/1import.png)
 
@@ -13,8 +9,6 @@
 #### ![](/assets/2import.png)1.书的类型
 
 #### ![](/assets/3import.png)
-
-
 
 ![](/assets/4import.png)
 
@@ -32,17 +26,15 @@
 
 ![](/assets/8import.png)
 
-
-
 #### 5.对书籍的相关信息进行设置
 
 ![](/assets/9import.png)
 
 ![](/assets/10import.png)
 
+#### 6.与github集成
+
 ![](/assets/12import.png)
-
-
 
 ![](/assets/13import.png)
 
