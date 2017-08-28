@@ -1,4 +1,4 @@
-### GitBook的使用
+# GitBook的使用
 
 > ### 1.创建gitbook的账号
 
