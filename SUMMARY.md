@@ -2,6 +2,7 @@
 
 * [GitBook操作手册](README.md)
   * [GitBook的使用](gitbookde-shi-yong.md)
+  * [创建Github仓库](chuang-jian-github-cang-ku.md)
   * [GitBookEditor编辑器的使用](gitbookeditorbian-ji-qi-de-shi-yong.md)
 * [简介](jian-jie.md)
   * [不懂 Git 也能善用 GitBook](bu-dong-git-ye-neng-shan-yong-gitbook.md)
