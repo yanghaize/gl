@@ -4,7 +4,7 @@
 * [财务](cai-wu.md)
 * [销售](xiao-shou.md)
 * [仓库](cang-ku.md)
-* 人事
+* [人事](ren-shi.md)
 * [采购](cai-gou.md)
   * [采购系统使用说明文档](cai-gou/cai-gou-xia-dan.md)
 * [IT](it.md)
