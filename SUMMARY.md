@@ -7,6 +7,7 @@
 * [人事](ren-shi.md)
 * [采购](cai-gou.md)
   * [采购系统使用说明文档](cai-gou/cai-gou-xia-dan.md)
+  * [库存管理模块上传图片操作手册](cai-gou/shang-chuan-tu-pian-cao-zuo-shou-ce.md)
 * [IT](it.md)
   * [创建Github仓库](chuang-jian-github-cang-ku.md)
   * [GitBookEditor编辑器的使用](gitbookeditorbian-ji-qi-de-shi-yong.md)
