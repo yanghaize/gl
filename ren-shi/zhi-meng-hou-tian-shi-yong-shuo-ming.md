@@ -24,5 +24,13 @@
   因为织梦系统是静态部署，所有的页面都是静态的，所以添加或修改文章和栏目后，需要手动更新网站。
 ```
 
-4-1.一键更新网站：![](/assets/Image 47.png)4-2.更新栏目![](/assets/Image 48.png)4-3.更新文档![](/assets/Image 51.png)
+4-1.一键更新网站：![](/assets/Image 47.png)4-2.更新栏目![](/assets/Image 48.png)4-3.更新文档![](/assets/Image 51.png)三、添加校招行程
+
+1.进入校招文档列表
+
+![](/assets/Image 52.png)
+
+2.添加文档![](/assets/Image 53.png)3.编辑文档![](/assets/Image 55.png)4.更新栏目![](/assets/Image 56.png)5.刷新页面![](/assets/Image 57.png)四、上传图片与插入图片
+
+1.在编辑文档中
 
