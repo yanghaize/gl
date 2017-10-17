@@ -62,5 +62,7 @@
 
 2.上传文件
 
-2.1 上传新文件![](/assets/Image 80.png)
+2.1 上传新文件![](/assets/Image 80.png)PS：以上两种方式上传的图片会自动保存在 /uploads/allimg/171017/
+
+2.2 文件式管理器![](/assets/Image 81.png)
 
