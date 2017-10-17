@@ -32,5 +32,17 @@
 
 2.添加文档![](/assets/Image 53.png)3.编辑文档![](/assets/Image 55.png)4.更新栏目![](/assets/Image 56.png)5.刷新页面![](/assets/Image 57.png)四、上传图片与插入图片
 
-1.在编辑文档中
+1.在编辑文档时上传图片并插入
+
+1.1 单张图片
+
+![](/assets/Image 58.png)
+
+![](/assets/Image 59.png)![](/assets/Image 60.png)![](/assets/Image 63.png)
+
+![](/assets/Image 66.png)
+
+
+
+
 
