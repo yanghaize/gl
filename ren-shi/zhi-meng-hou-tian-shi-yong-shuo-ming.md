@@ -58,9 +58,9 @@
 
 ![](/assets/Image 76.png)
 
-![](/assets/Image 75.png)
+![](/assets/Image 75.png)PS：以上两种方式上传的图片会自动保存在 /uploads/allimg/171017/   目录下，“1701017”——是今天的日期（2017-10-17）缩写
 
+2.上传文件
 
-
-
+2.1 上传新文件![](/assets/Image 80.png)
 
