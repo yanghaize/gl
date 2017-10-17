@@ -16,7 +16,9 @@
 
 ![](/assets/Image 1.png)![](/assets/Image 45.png)3.编写文档
 
-![](/assets/Image-18.png)
+![](/assets/Image-18.png)重点说明：
+
+     缩略图——缩略图是这篇文章封面，不一定是文档中的图片，在主页的新闻动态和栏目列表中展示的就是该图片。
 
 4.更新文章和栏目
 
@@ -42,7 +44,13 @@
 
 ![](/assets/Image 66.png)
 
+点击确定即可完成插入
 
+1.2 批量上传插入
+
+![](/assets/Image 69.png)
+
+![](/assets/Image 71.png)
 
 
 
