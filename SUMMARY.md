@@ -16,5 +16,5 @@
   * [GitBook的使用](gitbookde-shi-yong.md)
 * [网络管理](wang-luo-guan-li.md)
   * [blh](wang-luo-guan-li/blh.md)
-  * [教程](wang-luo-guan-li/jiao-cheng.md)
+  * [共享复制到文件到新系统桌面教程](wang-luo-guan-li/jiao-cheng.md)
 
